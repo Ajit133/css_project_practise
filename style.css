@@ -1,29 +1,40 @@
 .dotted{
     border-style: dotted;
+    border-color: red;
 }
 .dashed{
     border-style: dashed;
+    border-color: blue;
 }
 .solid{
     border-style: solid;
+    border-color: green;
+    border-width: 20px 10px;
 }
 .double{
     border-style: double;
+    border-width: thick;
+    border-color: brown;
 }
 .groove{
     border-style: groove;
+    border-color: gold;
 }
 .ridge{
     border-style: ridge;
+    border-color: maroon;
 }
 .inset{
     border-style: inset;
+    border-color: navy;
 }
 .outset{
     border-style: outset;
+    border-color: blueviolet;
 }
 .none{
     border-style: none;
+    border-color: chartreuse;
 }
 .hidden{
     border-style: hidden;
